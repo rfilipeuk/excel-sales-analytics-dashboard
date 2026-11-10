@@ -2,7 +2,7 @@
 
 An interactive, fully dynamic sales dashboard built by hand in Microsoft Excel: Power Query, PivotTables, slicers, conditional formatting and a small formula "engine" that drives the year-over-year indicators.
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](Images/dashboard.png)
 
 > **Why Excel?** AI tools can now generate a dashboard in minutes. I built this one manually, on purpose, to rebuild muscle memory with the core tools every analyst should know cold, and to understand exactly how every number on the screen is produced.
 
